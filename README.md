@@ -1,5 +1,9 @@
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+## === Praktikum Pemrograman Berorientasi Objek (Pertemuan ke-8)===
+
+// Created by 21343056_Muhammad Asyrof
+
+  Pada pembelajaran Praktikum Pemrograman Berorientasi Objek di pertemuan ke-8 ini saya mempelajari mengenai cara mendeklarasikan dan membuat array,  mengakses elemen-elemen didalam array,  menentukan jumlah elemen didalam sebuah array, serta mendeklarasikan dan membuat array multidimensi menggunakan Bahasa pemrograman Java dengan IDE. 
+  
+  Pada praktikum ini mempelajari mengenai array, yang dimana sebuah array akan menyimpan beberapa item data yang memiliki tipe data sama didalam sebuah blok memori yang berdekatan yang kemudian dibagi menjadi beberapa slot. Array merupakan sebuah variabel yang menyimpan sekumpulan data yang memiliki tipe data sama. Setiap data tersebut menempati lokasi atau alamat memori yang berbeda-beda dan selanjutnya disebut dengan elemen array. Elemen array itu kemudian dapat diakses melalui indeks yang terdapat di dalamnya. Indeks array selalu dimulai dari 0. 
+  
+  
